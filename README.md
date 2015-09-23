@@ -7,7 +7,10 @@ The main idea is that if a saccade is done during fixation period, subject was n
 
 2) git clone https://github.com/patra/pupil-support 
 
-Inside pupil_support.py you have the main usage:
+3) python pupil_support.py should do something.
+
+
+Typical usage:
 
 	# log for 10 seconds and detect saccades for 2 secconds
 	pupil = Pupil()
