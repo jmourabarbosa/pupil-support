@@ -3,7 +3,8 @@
 Class Pupil eye tracker integration. Mainly for saccad detection (useful for fixation) and logging.
 The main idea is that if a saccade is done during fixation period, subject was not fixating. Velocity thresold can be costumized.
 
-1) Install pupil_capture bundle from pupil labs.
+1) Install pupil_capture bundle from pupil labs. Run it.
+
 2) git clone https://github.com/patra/pupil-support 
 
 Inside pupil_support.py you have the main usage:
